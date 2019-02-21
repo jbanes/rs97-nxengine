@@ -1,0 +1,10 @@
+Package: cavestory
+Version: 20190220
+Description: Story driven, action-platformer
+Section: games
+Priority: optional
+Maintainer: jbanes
+Architecture: mipsel
+Homepage: https://studiopixel.jp
+Depends:
+Source: https://github.com/jbanes/rs97-nxengine
